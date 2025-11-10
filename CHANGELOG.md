@@ -6,7 +6,7 @@
  - Descripción del cambio.
 
 
- ## Gradix [10/11/2025]
+## Gradix [10/11/2025]
 ### 1.1.0
 #### Heber Alexander
  - Descripción del cambio.
@@ -17,6 +17,6 @@
  - Cambio para iniciar la bitácora.
 
 ## AÑADIR ARCHIVO MI NOMBRE
-### 1.1.0
+### 1.2.0
 ### DEREK ORTIZ
 -CREACION de mi archivo con nombre
