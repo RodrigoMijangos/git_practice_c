@@ -6,13 +6,25 @@
  - Descripción del cambio.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
  ## Archivo de texto [10/11/2025]
-### 1.1.0
+### 1.7.0
 #### Jose Juan Ramos cabrera
  - Se creo un archivo de texto.
 =======
+=======
+## ADDED FILES [10/11/2025]
+### 1.3.0
+#### Eduardo M.
+ - Added new files.
+>>>>>>> d828b3d516cee0f4ba2648c24267d3d5f5eb1c9b
 
- ## Gradix [10/11/2025]
+## TAREA PROVISIONAL [10/11/2025]
+### 1.2.0
+#### Rodrigo Mijangos
+ - Entrada de muestra
+
+## Gradix [10/11/2025]
 ### 1.1.0
 #### Heber Alexander
  - Descripción del cambio.
@@ -22,3 +34,8 @@
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
+
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.4.0
+### DEREK ORTIZ
+-CREACION de mi archivo con nombre
