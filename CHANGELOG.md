@@ -1,19 +1,15 @@
 # BITACORA DE CAMBIOS
 
+## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
- ## ID o nombre de tarea [10/11/2025]
-### 1.9.0
-#### Alexander Jesus JImenez Leon
- - Cambios .9
-
-## ID o nombre de tarea [10/11/2025]
-### 1.8.0
-#### Jose Juan Ramos Cabrera
-- Descripcion del cambio
 
 ## Resolve of Conflict merging git [10/11/2025]
 ### 1.7.1
@@ -34,7 +30,6 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
-
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
@@ -48,7 +43,6 @@
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
- - Entrada de muestra
 
 ## Gradix [10/11/2025]
 ### 1.1.0
