@@ -1,7 +1,7 @@
 # BITACORA DE CAMBIOS
 
 ## Archivo editado [10/11/25]
-### 1.1.0
+### 1.6.0
 #### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
