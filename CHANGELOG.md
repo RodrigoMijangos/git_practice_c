@@ -25,17 +25,51 @@
 #### Alexander Jimenez
  - cambio bitacora.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
+
+## Calculo 243762 [10/11/2025]
+### 1.7.2
+#### Kelly Felipe
+ - Cambios realizado.
+
+=======
 ## a [10/11/2025]
 ### 1.10.0
 #### Karolina Trujillo
  - Descripcion del cambio.
+>>>>>>> 05a5fca9f141f0df8b295974b1961aef011b47e5
 
+>>>>>>> 39797064d326decdd63873ae19a5e4dda23733d1
  ## Asesino [10/11/2025]
 ### 1.9.0
 #### Mario Velazquez
  - Entrada de muestra
 
 
+<<<<<<< HEAD
+## a [10/11/2025]
+### 1.10.0
+#### Karolina Trujillo
+ - Descripcion del cambio.
+
+
+=======
+<<<<<<< HEAD
+## Calculo 243762 [10/11/2025]
+### 1.7.2
+#### Kelly Felipe
+ - Cambios realizado.
+
+=======
+>>>>>>> 05a5fca9f141f0df8b295974b1961aef011b47e5
+>>>>>>> 39797064d326decdd63873ae19a5e4dda23733d1
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
 #### Jose Juan Ramos Cabrera
@@ -57,6 +91,11 @@
 #### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
+<<<<<<< HEAD
+>>>>>>> ab4cca11b7cd9871b39218fea58e0a8180b85426
+=======
+=======
+>>>>>>> e70e14545d903c4384539b8151166b099ee06577
  ## New archivo [10/11/2025]
 ### 1.5.0
 #### Diego 
