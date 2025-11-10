@@ -6,9 +6,14 @@
  - Descripción del cambio.
 
  ## New archivo [10/11/2025]
-### 1.1.0
+### 1.2.0
 #### Diego 
  - Subí algo.
+
+ ## Gradix [10/11/2025]
+### 1.1.0
+#### Heber Alexander
+ - Descripción del cambio.
 
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
