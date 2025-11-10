@@ -16,6 +16,27 @@
  - Descripción del cambio.
 
 
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.11.0
+### Nestor
+-cambio de esa wea
+
+## ID o nombre de tarea [10/11/2025]
+### 1.7.0
+#### Brian Luis Ruiz Pérez
+- Descripcion del cambio
+
+## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
+
+
+## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
@@ -59,7 +80,6 @@
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
- - Entrada de muestra
 
 ## Gradix [10/11/2025]
 ### 1.1.0
