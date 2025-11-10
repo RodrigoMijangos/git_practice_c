@@ -1,5 +1,10 @@
 # BITACORA DE CAMBIOS
 
+## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
+
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
@@ -7,12 +12,20 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  ## Archivo de texto [10/11/2025]
-### 1.7.0
+### 1.8.0
 #### Jose Juan Ramos cabrera
  - Se creo un archivo de texto.
 =======
 =======
+=======
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.4.0
+### DEREK ORTIZ
+-CREACION de mi archivo con nombre
+
+>>>>>>> 1a5b1b68d4065d8937882ad4186a60578afac080
 ## ADDED FILES [10/11/2025]
 ### 1.3.0
 #### Eduardo M.
@@ -35,7 +48,3 @@
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
-## AÑADIR ARCHIVO MI NOMBRE
-### 1.4.0
-### DEREK ORTIZ
--CREACION de mi archivo con nombre
