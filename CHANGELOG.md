@@ -10,20 +10,26 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## a [10/11/2025]
+### 1.10.0
+#### Karolina Trujillo
+ - Descripcion del cambio.
+
  ## Asesino [10/11/2025]
 ### 1.9.0
 #### Mario Velazquez
  - Entrada de muestra
 
-## Resolve of Conflict merging git [10/11/2025]
-### 1.7.1
-#### Rodrigo Mijangos
- - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
 #### Jose Juan Ramos Cabrera
 - Descripcion del cambio
+
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
 ### 1.7.0
