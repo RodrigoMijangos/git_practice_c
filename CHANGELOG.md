@@ -9,3 +9,8 @@
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
+
+## CAMBIO BITACORA [10/11/205]
+### 1.1.0
+#### Mayte Villanueva 
+ - cambio bitacora.
