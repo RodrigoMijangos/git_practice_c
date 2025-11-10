@@ -39,7 +39,6 @@
 #### Kelly Felipe
  - Cambios realizado.
 
-=======
 ## a [10/11/2025]
 ### 1.10.0
 #### Karolina Trujillo
