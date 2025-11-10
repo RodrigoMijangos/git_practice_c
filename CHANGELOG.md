@@ -10,6 +10,10 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## TAREA PROVISIONAL [10/11/2025]
+### 1.2.0
+#### Rodrigo Mijangos
+ - Entrada de muestra
 
  ## Gradix [10/11/2025]
 ### 1.1.0
