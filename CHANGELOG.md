@@ -10,6 +10,11 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+ ## Asesino [10/11/2025]
+### 1.9.0
+#### Mario Velazquez
+ - Entrada de muestra
+
 ## Resolve of Conflict merging git [10/11/2025]
 ### 1.7.1
 #### Rodrigo Mijangos
@@ -34,10 +39,7 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
-<<<<<<< HEAD
-=======
 
->>>>>>> 65ea110e210cbdc4f1b6029833987360ff54f3e1
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
