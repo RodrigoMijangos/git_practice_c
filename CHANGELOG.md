@@ -45,7 +45,14 @@
  - Descripcion del cambio.
 >>>>>>> 05a5fca9f141f0df8b295974b1961aef011b47e5
 
+<<<<<<< HEAD
+ ## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+=======
 >>>>>>> 39797064d326decdd63873ae19a5e4dda23733d1
+>>>>>>> 1a3b3478e76c9dbe7f48d1e3ac6bb840ce0a0799
  ## Asesino [10/11/2025]
 ### 1.9.0
 #### Mario Velazquez
