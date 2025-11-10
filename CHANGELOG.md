@@ -5,6 +5,11 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.4.0
+### DEREK ORTIZ
+-CREACION de mi archivo con nombre
+
 ## ADDED FILES [10/11/2025]
 ### 1.3.0
 #### Eduardo M.
@@ -25,7 +30,3 @@
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
-## AÑADIR ARCHIVO MI NOMBRE
-### 1.4.0
-### DEREK ORTIZ
--CREACION de mi archivo con nombre
