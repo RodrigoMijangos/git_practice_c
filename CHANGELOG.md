@@ -1,20 +1,35 @@
 # BITACORA DE CAMBIOS
 
+<<<<<<< HEAD
+## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+
+=======
+>>>>>>> 65ea110e210cbdc4f1b6029833987360ff54f3e1
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+<<<<<<< HEAD
+
+
+
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> c1fdbf5d693848816d891fef9cd63c0ae5d324d6
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
 
 ## Calculo 243762 [10/11/2025]
 ### 1.7.2
 #### Kelly Felipe
  - Cambios realizado.
-
-## Resolve of Conflict merging git [10/11/2025]
-### 1.7.1
-#### Rodrigo Mijangos
- - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
@@ -41,7 +56,10 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
+<<<<<<< HEAD
+=======
 
+>>>>>>> 65ea110e210cbdc4f1b6029833987360ff54f3e1
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
@@ -55,7 +73,6 @@
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
- - Entrada de muestra
 
 ## Gradix [10/11/2025]
 ### 1.1.0
