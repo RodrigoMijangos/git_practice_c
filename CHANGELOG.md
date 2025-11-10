@@ -6,9 +6,14 @@
  - Descripción del cambio.
 
  ## New archivo [10/11/2025]
-### 1.3.0
+### 1.4.0
 #### Diego 
  - Subí algo.
+## ADDED FILES [10/11/2025]
+### 1.3.0
+#### Eduardo M.
+ - Added new files.
+
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
