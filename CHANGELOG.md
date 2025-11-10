@@ -32,6 +32,7 @@
  - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
+
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
 - Descripcion del cambio
@@ -45,7 +46,6 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
-
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
