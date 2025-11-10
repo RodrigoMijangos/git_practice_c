@@ -1,5 +1,10 @@
 # BITACORA DE CAMBIOS
 
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.11.0
+### Nestor
+-cambio de esa wea
+
 ## ID o nombre de tarea [10/11/2025]
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
@@ -49,8 +54,3 @@
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
-
-## AÑADIR ARCHIVO MI NOMBRE
-### 1.11.0
-### Nestor
--cambio de esa wea
