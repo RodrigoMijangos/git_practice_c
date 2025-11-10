@@ -6,9 +6,9 @@
  - Descripción del cambio.
 
  ## Calculo 243762 [10/11/2025]
-### 1.6.0
-#### Kelly Felipe 
- - Cambios
+### 1.7.0
+#### Kelly Felipe
+ - Cambios realizado.
 
 ## INICIO DE BITACORA [10/11/2025]
 ### 1.0.0
