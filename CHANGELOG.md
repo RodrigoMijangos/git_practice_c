@@ -1,9 +1,6 @@
 # BITACORA DE CAMBIOS
 
-## Archivo editado [10/11/25]
-### 1.6.0
-#### Valencia Aguilar Paola Esmeralda
- - Descripción del cambio.
+
 
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
@@ -11,10 +8,18 @@
  - Descripción del cambio.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
  ## Calculo 243762 [10/11/2025]
-### 1.7.0
+### 1.7.1
 #### Kelly Felipe
  - Cambios realizado.
+=======
+ ## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
+
+>>>>>>> ab4cca11b7cd9871b39218fea58e0a8180b85426
 =======
  ## New archivo [10/11/2025]
 ### 1.5.0
