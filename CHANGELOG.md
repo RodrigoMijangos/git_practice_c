@@ -10,6 +10,7 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+<<<<<<< HEAD
 
 ## Resolve of Conflict merging git [10/11/2025]
 ### 1.7.1
@@ -21,6 +22,12 @@
 #### Kelly Felipe
  - Cambios realizado.
 
+=======
+## a [10/11/2025]
+### 1.10.0
+#### Karolina Trujillo
+ - Descripcion del cambio.
+>>>>>>> 05a5fca9f141f0df8b295974b1961aef011b47e5
 
  ## Asesino [10/11/2025]
 ### 1.9.0
@@ -28,11 +35,14 @@
  - Entrada de muestra
 
 
+<<<<<<< HEAD
 ## Calculo 243762 [10/11/2025]
 ### 1.7.2
 #### Kelly Felipe
  - Cambios realizado.
 
+=======
+>>>>>>> 05a5fca9f141f0df8b295974b1961aef011b47e5
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
 #### Jose Juan Ramos Cabrera
@@ -44,6 +54,7 @@
  - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
+
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
 - Descripcion del cambio
@@ -62,7 +73,6 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
-
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
