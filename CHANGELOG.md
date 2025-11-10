@@ -1,13 +1,15 @@
 # BITACORA DE CAMBIOS
 
-## Archivo editado [10/11/25]
-### 1.6.0
-#### Valencia Aguilar Paola Esmeralda
- - Descripción del cambio.
+
 
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
+ - Descripción del cambio.
+
+ ## Archivo editado [10/11/25]
+### 1.5.0
+#### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
 ## AÑADIR ARCHIVO MI NOMBRE
