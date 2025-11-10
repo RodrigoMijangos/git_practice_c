@@ -1,7 +1,7 @@
 # BITACORA DE CAMBIOS
 
 ## ID o nombre de tarea [10/11/2025]
-### 1.3.0
+### 1.5.0
 #### Brian Luis Ruiz Pérez
  - Descripción del cambio.
 
