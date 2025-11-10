@@ -10,11 +10,21 @@
 #### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
+
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+ ## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
+
+ ## New archivo [10/11/2025]
+### 1.5.0
+#### Diego 
+ - Subí algo.
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
