@@ -1,5 +1,14 @@
 # BITACORA DE CAMBIOS
 
+## ID o nombre de tarea [10/11/2025]
+### 1.7.0
+#### Brian Luis Ruiz Pérez
+- Descripcion del cambio
+
+## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
 
 
 ## ID o nombre de tarea [Fecha]
