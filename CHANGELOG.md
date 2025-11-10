@@ -1,31 +1,32 @@
 # BITACORA DE CAMBIOS
 
-## ID o nombre de tarea [10/11/2025]
-### 1.7.0
-#### Brian Luis Ruiz Pérez
-- Descripcion del cambio
-
-## Archivo editado [10/11/25]
-### 1.6.0
-#### Valencia Aguilar Paola Esmeralda
- - Descripción del cambio.
-
-
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
- ## Calculo 243762 [10/11/2025]
+
+## Calculo 243762 [10/11/2025]
 ### 1.7.2
 #### Kelly Felipe
  - Cambios realizado.
-=======
-=======
->>>>>>> e70e14545d903c4384539b8151166b099ee06577
+
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
+
+## ID o nombre de tarea [10/11/2025]
+### 1.8.0
+#### Jose Juan Ramos Cabrera
+- Descripcion del cambio
+
+## ID o nombre de tarea [10/11/2025]
+### 1.7.0
+#### Brian Luis Ruiz Pérez
+- Descripcion del cambio
+
+>>>>>>> 65ea110e210cbdc4f1b6029833987360ff54f3e1
  ## Archivo editado [10/11/25]
 ### 1.6.0
 #### Valencia Aguilar Paola Esmeralda
@@ -40,6 +41,7 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
+
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
@@ -64,8 +66,3 @@
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
-
-## AÑADIR ARCHIVO MI NOMBRE
-### 1.11.0
-### Nestor
--cambio de esa wea
