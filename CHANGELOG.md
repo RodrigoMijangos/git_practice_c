@@ -5,6 +5,11 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
+
 ## ID o nombre de tarea [10/11/2025]
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
