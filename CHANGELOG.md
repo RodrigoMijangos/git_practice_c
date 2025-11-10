@@ -13,13 +13,20 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
- ## Archivo de texto [10/11/2025]
-### 1.8.0
-#### Jose Juan Ramos cabrera
- - Se creo un archivo de texto.
+<<<<<<< HEAD
+
 =======
 =======
 =======
+=======
+
+
+ ## New archivo [10/11/2025]
+### 1.5.0
+#### Diego 
+ - Subí algo.
+>>>>>>> 4456b882c39276190437bffdccc8169ddc5b280e
+
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
