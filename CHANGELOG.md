@@ -46,8 +46,13 @@
 #### Rodrigo Mijangos
  - Cambios en changelog para mejor historial.
 
-## ID o nombre de tarea [10/11/2025]
+## Web [10/11/2025]
+### 1.7.2
+#### Kelly Felipe
+ - Cambios 
 
+
+## ID o nombre de tarea [10/11/2025]
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
 - Descripcion del cambio
