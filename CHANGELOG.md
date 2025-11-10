@@ -1,31 +1,30 @@
 # BITACORA DE CAMBIOS
 
+## ID o nombre de tarea [10/11/2025]
+### 1.7.0
+#### Brian Luis Ruiz Pérez
+- Descripcion del cambio
+
+## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
 
 
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
-<<<<<<< HEAD
-## Asesino [10/11/2025]
-### 1.7.0
-#### Mario Velazquez
- - Entrada de muestra
-=======
 
-<<<<<<< HEAD
  ## Archivo editado [10/11/25]
 ### 1.6.0
 #### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
-=======
->>>>>>> ab4cca11b7cd9871b39218fea58e0a8180b85426
  ## New archivo [10/11/2025]
 ### 1.5.0
 #### Diego 
  - Subí algo.
->>>>>>> 4456b882c39276190437bffdccc8169ddc5b280e
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
@@ -50,3 +49,7 @@
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.11.0
+### Nestor
+-cambio de esa wea
