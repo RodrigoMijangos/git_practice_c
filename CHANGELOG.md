@@ -4,6 +4,11 @@
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
+ - 
+ - ## CAMBIO BITACORA [10/11/205]
+### 1.13.0
+#### Sayd Quevedo 
+ - cambio bitacora.
 
  ## CAMBIO BITACORA [10/11/205]
 ### 1.12.0
