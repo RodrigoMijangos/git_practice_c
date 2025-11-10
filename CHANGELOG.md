@@ -1,14 +1,19 @@
 # BITACORA DE CAMBIOS
 
+## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
-## Resolve of Conflict merging git [10/11/2025]
-### 1.7.1
-#### Rodrigo Mijangos
- - Cambios en changelog para mejor historial.
+ ## Asesino [10/11/2025]
+### 1.9.0
+#### Mario Velazquez
+ - Entrada de muestra
 
 
 ## a [10/11/2025]
@@ -21,6 +26,11 @@
 ### 1.8.0
 #### Jose Juan Ramos Cabrera
 - Descripcion del cambio
+
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
 ### 1.7.0
@@ -50,7 +60,6 @@
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
- - Entrada de muestra
 
 ## Gradix [10/11/2025]
 ### 1.1.0
