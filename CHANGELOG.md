@@ -21,6 +21,6 @@
  - Cambio para iniciar la bitácora.
 
 ## AÑADIR ARCHIVO MI NOMBRE
-### 1.2.0
+### 1.3.0
 ### DEREK ORTIZ
 -CREACION de mi archivo con nombre
