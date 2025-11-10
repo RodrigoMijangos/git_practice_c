@@ -8,6 +8,10 @@
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
+
+## Asesino [10/11/2025]
+### 1.3.0
+#### Mario Velazquez
  - Entrada de muestra
 
  ## Gradix [10/11/2025]
