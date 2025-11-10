@@ -5,6 +5,11 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## ADDED FILES [10/11/2025]
+### 1.3.0
+#### Eduardo M.
+ - Added new files.
+
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
