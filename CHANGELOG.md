@@ -5,7 +5,6 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
-<<<<<<< HEAD
 ## Resolve of Conflict merging git [10/11/2025]
 ### 1.7.1
 #### Rodrigo Mijangos
