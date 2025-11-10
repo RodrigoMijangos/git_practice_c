@@ -82,3 +82,7 @@
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.11.0
+### Nestor
+-cambio de esa wea
