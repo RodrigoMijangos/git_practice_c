@@ -1,5 +1,14 @@
 # BITACORA DE CAMBIOS
 
+## ID o nombre de tarea [10/11/2025]
+### 1.7.0
+#### Brian Luis Ruiz Pérez
+- Descripcion del cambio
+
+## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
 
 
 ## ID o nombre de tarea [Fecha]
@@ -9,23 +18,28 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  ## Calculo 243762 [10/11/2025]
-### 1.7.1
+### 1.7.2
 #### Kelly Felipe
  - Cambios realizado.
 =======
+=======
+>>>>>>> e70e14545d903c4384539b8151166b099ee06577
  ## Archivo editado [10/11/25]
 ### 1.6.0
 #### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
+<<<<<<< HEAD
 >>>>>>> ab4cca11b7cd9871b39218fea58e0a8180b85426
 =======
+=======
+>>>>>>> e70e14545d903c4384539b8151166b099ee06577
  ## New archivo [10/11/2025]
 ### 1.5.0
 #### Diego 
  - Subí algo.
->>>>>>> 4456b882c39276190437bffdccc8169ddc5b280e
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
@@ -51,3 +65,7 @@
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.11.0
+### Nestor
+-cambio de esa wea
