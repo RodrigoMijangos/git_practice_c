@@ -9,6 +9,10 @@
 ### 1.12.0
 #### Mayte Villanueva 
  - cambio bitacora.
+ ## Asesino [10/11/2025]
+### 1.9.0
+#### Mario Velazquez
+ - Entrada de muestra
 
 ## Resolve of Conflict merging git [10/11/2025]
 ### 1.7.1
@@ -48,7 +52,6 @@
 ## TAREA PROVISIONAL [10/11/2025]
 ### 1.2.0
 #### Rodrigo Mijangos
- - Entrada de muestra
 
 ## Gradix [10/11/2025]
 ### 1.1.0
