@@ -1,14 +1,29 @@
 # BITACORA DE CAMBIOS
 
-## CAMBIO BITACORA [10/11/205]
-### 1.12.0
-#### Mayte Villanueva 
- - cambio bitacora.
-
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
+ 
+- ## CAMBIO BITACORA [10/11/205]
+### 1.14.0
+#### Nestor Arias
+ - cambio bitacora.
+
+ - ## CAMBIO BITACORA [10/11/205]
+### 1.13.0
+#### Sayd Quevedo 
+ - cambio bitacora.
+
+ ## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+
+  ## CAMBIO BITACORA [10/11/205]
+### 1.11.0
+#### Alexander Jimenez
+ - cambio bitacora.
 
  ## Asesino [10/11/2025]
 ### 1.9.0
@@ -33,6 +48,7 @@
  - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
+
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
 - Descripcion del cambio
@@ -46,7 +62,6 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
-
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
