@@ -4,6 +4,26 @@
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
+ - 
+ - ## CAMBIO BITACORA [10/11/205]
+### 1.13.0
+#### Sayd Quevedo 
+ - cambio bitacora.
+
+ ## CAMBIO BITACORA [10/11/205]
+### 1.12.0
+#### Mayte Villanueva 
+ - cambio bitacora.
+
+  ## CAMBIO BITACORA [10/11/205]
+### 1.11.0
+#### Alexander Jimenez
+ - cambio bitacora.
+
+## a [10/11/2025]
+### 1.10.0
+#### Karolina Trujillo
+ - Descripcion del cambio.
 
  ## CAMBIO BITACORA [10/11/205]
 ### 1.12.0
@@ -14,17 +34,19 @@
 #### Mario Velazquez
  - Entrada de muestra
 
-## Resolve of Conflict merging git [10/11/2025]
-### 1.7.1
-#### Rodrigo Mijangos
- - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
 #### Jose Juan Ramos Cabrera
 - Descripcion del cambio
 
+## Resolve of Conflict merging git [10/11/2025]
+### 1.7.1
+#### Rodrigo Mijangos
+ - Cambios en changelog para mejor historial.
+
 ## ID o nombre de tarea [10/11/2025]
+
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
 - Descripcion del cambio
@@ -38,7 +60,6 @@
 ### 1.5.0
 #### Diego 
  - Subí algo.
-
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
