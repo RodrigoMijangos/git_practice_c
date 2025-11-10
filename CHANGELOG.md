@@ -10,9 +10,13 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 ## Asesino [10/11/2025]
-### 1.5.0
+### 1.7.0
 #### Mario Velazquez
  - Entrada de muestra
+ ## New archivo [10/11/2025]
+### 1.5.0
+#### Diego 
+ - Subí algo.
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
