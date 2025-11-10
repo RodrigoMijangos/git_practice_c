@@ -10,10 +10,16 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+## a [10/11/2025]
+### 1.10.0
+#### Karolina Trujillo
+ - Descripcion del cambio.
+
  ## Asesino [10/11/2025]
 ### 1.9.0
 #### Mario Velazquez
  - Entrada de muestra
+
 
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
