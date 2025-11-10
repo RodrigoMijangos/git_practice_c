@@ -10,6 +10,13 @@
 #### Rodrigo Mijangos
  - Cambios en changelog para mejor historial.
 
+
+## a [10/11/2025]
+### 1.10.0
+#### Karolina Trujillo
+ - Descripcion del cambio.
+
+
 ## ID o nombre de tarea [10/11/2025]
 ### 1.8.0
 #### Jose Juan Ramos Cabrera
