@@ -1,9 +1,19 @@
 # BITACORA DE CAMBIOS
 
+## Archivo editado [10/11/25]
+### 1.6.0
+#### Valencia Aguilar Paola Esmeralda
+ - Descripción del cambio.
+
 ## ID o nombre de tarea [Fecha]
 ### Version del cambio
 #### Nombre del desarrolador 
  - Descripción del cambio.
+
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.4.0
+### DEREK ORTIZ
+-CREACION de mi archivo con nombre
 
 ## ADDED FILES [10/11/2025]
 ### 1.3.0
@@ -25,7 +35,3 @@
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
 
-## AÑADIR ARCHIVO MI NOMBRE
-### 1.3.0
-### DEREK ORTIZ
--CREACION de mi archivo con nombre
