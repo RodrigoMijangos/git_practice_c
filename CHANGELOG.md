@@ -7,11 +7,18 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+<<<<<<< HEAD
  ## Archivo editado [10/11/25]
 ### 1.6.0
 #### Valencia Aguilar Paola Esmeralda
  - Descripción del cambio.
 
+=======
+ ## New archivo [10/11/2025]
+### 1.5.0
+#### Diego 
+ - Subí algo.
+>>>>>>> 4456b882c39276190437bffdccc8169ddc5b280e
 ## AÑADIR ARCHIVO MI NOMBRE
 ### 1.4.0
 ### DEREK ORTIZ
