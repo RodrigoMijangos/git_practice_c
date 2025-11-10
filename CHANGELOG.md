@@ -11,7 +11,7 @@
  - Descripción del cambio.
 
  ## Asesino [10/11/2025]
-### 1.9.0
+### 1.7.2
 #### Mario Velazquez
  - Entrada de muestra
 
