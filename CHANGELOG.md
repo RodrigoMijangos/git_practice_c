@@ -9,3 +9,8 @@
 ### 1.0.0
 #### Rodrigo Mijangos
  - Cambio para iniciar la bitácora.
+
+## AÑADIR ARCHIVO MI NOMBRE
+### 1.1.0
+### DEREK ORTIZ
+-CREACION de mi archivo con nombre
