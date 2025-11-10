@@ -10,6 +10,15 @@
 #### Nombre del desarrolador 
  - Descripción del cambio.
 
+ ## Asesino [10/11/2025]
+### 1.9.0
+#### Mario Velazquez
+ - Entrada de muestra
+
+## ID o nombre de tarea [10/11/2025]
+### 1.8.0
+#### Jose Juan Ramos Cabrera
+- Descripcion del cambio
 
 ## Resolve of Conflict merging git [10/11/2025]
 ### 1.7.1
@@ -17,6 +26,7 @@
  - Cambios en changelog para mejor historial.
 
 ## ID o nombre de tarea [10/11/2025]
+
 ### 1.7.0
 #### Brian Luis Ruiz Pérez
 - Descripcion del cambio
